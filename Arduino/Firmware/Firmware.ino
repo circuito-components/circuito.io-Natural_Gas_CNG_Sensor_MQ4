@@ -9,7 +9,7 @@
 // ======================= END OF INCLUDE BLOCK // =============================
 
 // =======================Pin Definitions - ONLY MODIFY PIN NUMBERS // =========
-
+#define MQ4_PIN_AOUT	A3
 
 // =======================Pin Definitions // ===================================
 
